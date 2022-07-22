@@ -17,7 +17,7 @@ closeIcon.addEventListener('click', () => {
 });
 
 mobileList.addEventListener('click', () => {
-  mobileMenu.style.display = 'none';
+  mobileMenu.style.display = 'non';
 });
 
 for (let i = 0; i < projectButtons.length; i += 1) {
