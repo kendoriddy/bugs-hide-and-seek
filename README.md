@@ -1,6 +1,6 @@
 # portfolio-website
 
->This project is my personal portfolio website built at Microverse to showcase my projects and skills.
+>This is a demo project to demonstrate bug hunting and debugging.
 
 ![screenshot](./assets/images/preview.png)
 
@@ -9,9 +9,13 @@
 - HTML
 - CSS
 
-## Live Demo
+## Live Demo to real project
 
 [Live Demo Link](https://kendoriddy.github.io/portfolio-website/)
+
+## Real Portfolio Project Github link
+
+[Real Portfolio Link](https://github.com/kendoriddy/portfolio-website)
 
 ## Getting Started
 
